@@ -1,0 +1,15 @@
+completed task:
+----------------
+
+1. mockup
+2. frontend 
+   -- login page
+   -- logged in home page
+
+3. database 
+   -- initial schema
+
+
+todo:
+-----
+1. project document
