@@ -13,3 +13,6 @@ completed task:
 todo:
 -----
 1. project document
+2. database
+3. develop admin section
+4. develop frontend section
